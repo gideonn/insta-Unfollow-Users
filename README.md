@@ -1,4 +1,8 @@
 # insta-Unfollow-Users
+
+[Edit: This script stopped working after Instagram changed its API behavior. I have a plan on updating the script whenever I get time. I'll probably have to use some workaround to accomplish this. Thank you for your patience!]
+
+
 This is a script/bot to unfollow all instagram users that are not following back
 
 There are people who follow you to make you follow back, and then unfollow you.

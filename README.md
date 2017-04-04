@@ -19,7 +19,7 @@ First off, you need to login to instagram and head over to www.instagram.com/dev
 
 In addition to that, click on "Edit" after you've saved a client. Goto security, and untick "Disable implicit OAuth". We are doing that because we are going to implicitly call the APIs (without providing password everytime)
 
-Copy paste this URL in your browser : https://instagram.com/oauth/authorize/?client_id=[CLIENT_ID_HERE]&redirect_uri=http://localhost&response_type=token&scope=basic+likes+comments+relationships
+Copy paste this URL in your browser : https://instagram.com/oauth/authorize/?client_id=[CLIENT_ID_HERE]&redirect_uri=http://localhost&response_type=token&scope=basic+likes+comments+relationships+follower_list
 
 2) Watch the 2 min video, if step#1 is not clear -> https://www.youtube.com/watch?v=LkuJtIcXR68
 
